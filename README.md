@@ -1,2 +1,2 @@
-# learn_alura_sprint-boot
+# learn_alura_spring-boot
  
